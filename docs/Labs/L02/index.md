@@ -5,4 +5,8 @@ One design rule that is specific to additive manufacturing is to design products
 
 FDM Consideration - 
 
-One specific consideration in regard to FDM is overhangs. Overhangs are sections of the piece that you are making that have no direct contact to the rest of the part and are "hanging" over thing air. Now, if an overhang is small and at angles less than 45 degrees, you can get away with them by slowly building up to them using a normal 3D printer. However, if they are more extreme overhangs, then the designer must either expect to add supports to the print, or find a way to incorporate connecting pieces into the design to reduce the overhangs on the product.  
+One specific consideration in regard to FDM is overhangs. Overhangs are sections of the piece that you are making that have no direct contact to the rest of the part and are "hanging" over thing air. Now, if an overhang is small and at angles less than 45 degrees, you can get away with them by slowly building up to them using a normal 3D printer. However, if they are more extreme overhangs, then the designer must either expect to add supports to the print or find a way to incorporate connecting pieces into the design to reduce the overhangs on the product.  
+
+Something I learned from a teammate - 
+
+Infill decisions are affected more by the need to reduce time and waste rather than based solely on how strong the component needs to be. People would rather focus on reduction of costs and material than to over-engineer a product that may not be very expensive or profitable. 
