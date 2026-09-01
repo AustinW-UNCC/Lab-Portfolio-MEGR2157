@@ -69,7 +69,7 @@ I chose to use printer #15 because it had a nice blue PETG filament already load
 
 I worked with 3 other classmates (Atiba, Randy, and Maxwell). 
 
-[Video](https://github.com/user-attachments/assets/179fcbc7-e416-4d87-a9c4-304c209dc8bf)
+[Link to Video](https://github.com/user-attachments/assets/179fcbc7-e416-4d87-a9c4-304c209dc8bf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
