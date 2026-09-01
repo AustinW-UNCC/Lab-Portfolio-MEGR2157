@@ -56,6 +56,9 @@ I clicked "Export G-code" and then downloaded the file onto the thumb drive and 
 
 Printing: 
 
+<img width="660" height="1434" alt="image0" src="https://github.com/user-attachments/assets/e901c146-98fe-4c8a-8f87-ab76df31de2d" />
+
+
 I decided to use PETG to print the fidget toy because I had never used that materiel before and I was interested to learn how the material felt and how hard/flexible it was. 
 
 Next step was to insert the thumb drive and the machine automatically picked up the new file 
@@ -65,6 +68,8 @@ After that, all I had to do was press the "Print" button and I was done
 I chose to use printer #15 because it had a nice blue PETG filament already loaded into it and was ready to go.
 
 I worked with 3 other classmates (Atiba, Randy, and Maxwell). 
+
+Video 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
