@@ -62,7 +62,17 @@ The part was made using PLA, it had no overhangs and the dimensions are 1.5" x 1
 
 Video - 
 
-My video was listed as "too large" to upload onto this repository. I tried to shorten the video length and see if that helped but for some reason, this file is not uploading properly to GitHub. 
+<div align="center">
+  <figure style="display: inline-block; margin: 10px; width: 50%; vertical-align: top;">
+    <video width="100%" controls>
+      <source src="IMG_E5769[1].MOV" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption style="font-size: 0.85em; color: gray; margin-top: 8px; text-align: center;">
+      3D Printing Process
+    </figcaption>
+  </figure>
+</div>
 
 Lessons Learned - 
 
