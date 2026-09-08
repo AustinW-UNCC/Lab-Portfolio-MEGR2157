@@ -26,3 +26,6 @@ nav:
       - Lab-11: Labs/L11/index.md
   - Final Project: 
       - Final Project: finalproject/index.md
+
+plugins:
+-mkdocs-video
