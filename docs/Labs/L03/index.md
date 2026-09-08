@@ -62,7 +62,7 @@ The part was made using PLA, it had no overhangs and the dimensions are 1.5" x 1
 
 Video - 
 
-
+My video was listed as "too large" to upload onto this repository. I tried to shorten the video length and see if that helped but for some reason, this file is not uploading properly to GitHub. 
 
 Lessons Learned - 
 
