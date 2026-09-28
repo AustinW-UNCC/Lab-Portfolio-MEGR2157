@@ -84,8 +84,7 @@ There seems to be some sort of issue in deploying this commit to the page. Curre
 
 Resources - 
 
-1. https://www.youtube.com/watch?v=cMQU5EKx_To
-2. https://www.youtube.com/watch?v=HXyz5K1GC8c
+I had to delete these videos as they may be part of the reason for the failure in running the program...
 
 
 
