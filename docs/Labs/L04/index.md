@@ -80,6 +80,8 @@ Lessons Learned -
 
   - this took about 3.5 hours from the total design time to the final print and the completion of this lab report. 
 
+There seems to be some sort of issue in deploying this commit to the page. Currently I am not sure what it wrong. 
+
 Resources - 
 
 1. https://www.youtube.com/watch?v=cMQU5EKx_To
