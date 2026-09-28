@@ -54,7 +54,7 @@ Once the slicing was done, I printed my part with red PLA in printer #09 in the 
 
 Next is the video of the print that I was able to get. 
 
-https://github.com/user-attachments/assets/7f9a4712-ebf7-4ec0-93a4-c664420303e1
+Video has been deleted as I believe that it is the issue with the deployment of the page. 
 
 This print tested the ability of the Prusa Core One to handles overhangs in prints. I started with 43 degrees and then went up by 2 degrees each piece in order to narrow down exactly when the printer would start to fail. The printer says that it can handle up to 45 degrees without supports but I was curious if I would start to see points of failure prior to or even atv 45 degrees. If I didn't, then the test still allowed for me to see those failure points at 47 and 49 degrees respectively. 
 
