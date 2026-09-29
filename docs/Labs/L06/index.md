@@ -100,6 +100,14 @@ Show and Tell -
 
 The snap fit does work as wanted by the project guidelines and it is not easy to take off like the project requests. 
 
+Pictures of the final part 
+
+<img width="406" height="362" alt="image" src="https://github.com/user-attachments/assets/98f71011-09eb-48ea-a733-0a87ed3e0e0f" />
+
+<img width="352" height="310" alt="image" src="https://github.com/user-attachments/assets/03d4abf1-1784-4699-8c42-66f0604e6618" />
+
+<img width="353" height="376" alt="image" src="https://github.com/user-attachments/assets/d532cc7a-effb-495c-8a03-7c910e901f16" />
+
 Lessons Learned - 
 
 This project helped me to learn a handful of things about design from allowing for extra space when having to account for the thickness of the arms while designing the base in order to make sure that you have enough tightness while also not breaking the part. I also learned how to better use relations in SolidWorks because the actual shape of the arms was dependent on them all being symmetrical. As much as that last step was difficult to figure out, I did enjoy learning how the program reads relations and why some relations do not do what you want them to.  
