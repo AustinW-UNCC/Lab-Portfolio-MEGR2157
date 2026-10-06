@@ -120,6 +120,53 @@ Final Assembly - Here are multiple pictures of the final assembly. I included mu
 
 There are multiple other ways to bend this piece as well, but those 3 pictures give you an idea of the range of motion of my part. 
 
+3D Print - 
+
+The first step in the printing process is to export the files from SolidWorks as either .stl or .3mf files. Then you can put them into Prusa Slicer and get the parts ready for printing. 
+
+The instructions for the 3d printing part of this assignment are missing so I am going to lay out the printing process like I have in the past while alos including proof that the elephants' foot was changed in the process. 
+
+Here is the picture of the overall project in the slicer
+
+<img width="552" height="388" alt="Screenshot 2026-10-06 113553" src="https://github.com/user-attachments/assets/7228c2a1-a7ae-42aa-bf11-07c8e0277343" />
+
+This step is where I made my first (luckily very small) mistake. I only printed 2 of the pins for the project when I need 4. Not a huge deal, but it required me to start another print in order to get enough pins. 
+
+Here are the images of the extra pins that I made due to that mistake 
+
+<img width="261" height="213" alt="Screenshot 2026-10-06 122211" src="https://github.com/user-attachments/assets/623cff1b-0607-4b7f-80bc-0f6f81a3d11f" />
+
+<img width="132" height="133" alt="Screenshot 2026-10-06 122214" src="https://github.com/user-attachments/assets/8ca66f13-5d2d-4ece-948d-fb46a598a21f" />
+
+Now back to the original print - Print details are listed below, including time to print and all the types of printing that the machine did 
+
+<img width="260" height="236" alt="Screenshot 2026-10-06 113549" src="https://github.com/user-attachments/assets/27c488cd-7463-46a4-9b0b-5f9857bf0808" />
+
+This picture includes other details like the material type, percent of infill, amount of filament used, etc...
+
+<img width="313" height="713" alt="Screenshot 2026-10-06 113608" src="https://github.com/user-attachments/assets/132a552e-ecfe-45b7-931e-a7f6417ce9af" />
+
+Finally, here is the picture of the elephants' foot compensation for my project in order to protect the tolerance that I was aiming for - 
+
+<img width="346" height="155" alt="Screenshot 2026-10-06 113239" src="https://github.com/user-attachments/assets/e5bdfc00-5fad-462f-8d5b-4ad04b58cc31" />
+
+This is a picture of the print in action, as you can see, there is only 2 pins in this picture. That mistake was accounted for earlier and fixed. 
+
+<img width="3024" height="4032" alt="IMG_5823" src="https://github.com/user-attachments/assets/0ebf4af5-7c50-427d-839b-c80e9afe0ed8" />
+
+No video was required for this assignment; however I do have one of the prints in action. (Available upon request)
+
+Lessons Learned - 
+
+1. This project took about 8-9 hours in total to finish. I spent about 4 hours working through CAD designs and decided how big to make each piece to get them to fit properly. Part of this was researching other people's designs online to get inspiration for mine. Printing and assembly took less than an hour combined, and I spent about 2.5 hours on this part of the project detailing my work.
+
+2. My biggest mistake was not making enough pins when originally printing. I had to print a separate print in order to make enough so that the parts would all go together. The root cause of this was extreme exhaustion from doing this assignment for so long. I fixed it by getting lots of caffeine to push through the rest of the assignment to get it done on time.
+
+3. My tolerances worked surprisingly well, and all of the pins fit tightly into the links while still allowing them to rotate around freely. For some reason, one of the pins was slightly looser than the rest so I had to replace it with one of my backup pins. Other than that, I would not change anything about my project and I am very happy with how it turned out. 
+
+Final picture of the project put together - 
+
+<img width="3024" height="4032" alt="IMG_5825" src="https://github.com/user-attachments/assets/1871de6d-43e9-4e91-8191-3ac1aba92331" />
 
 
 
