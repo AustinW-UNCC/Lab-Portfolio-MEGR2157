@@ -46,7 +46,11 @@ I mentioned my reasons for tolerances up above the second picture of the design 
 
 Printing Process - 
 
+<img width="3024" height="4032" alt="IMG_5835 1" src="https://github.com/user-attachments/assets/8213ba57-64af-424e-8041-7aa04bd0d98a" />
+
 1. I used machine #16.
+
+<img width="3024" height="4032" alt="IMG_5834 1" src="https://github.com/user-attachments/assets/5c4fc037-932d-4637-a778-33002e93defa" />
 
 2. I did not use a raft.
 
@@ -84,3 +88,25 @@ Printing Process -
 
 14.  Pictured below -
  <img width="261" height="248" alt="image" src="https://github.com/user-attachments/assets/ca01f02f-dfa4-4663-ba66-818c38bc8dad" />
+
+Video of Print - 
+
+https://github.com/user-attachments/assets/30204913-0bb7-482e-9f41-d48dcbbeb0b5
+
+Printed Part - 
+
+<img width="3024" height="4032" alt="IMG_5837 1" src="https://github.com/user-attachments/assets/9cf8c6fd-2872-48fe-92d8-69ea084cf429" />
+
+ Lessons Learned - 
+
+The main lesson that I learned from this process was how to identify a fixable problem and determine that it is an achievable goal prior to ever starting the actual design process. There were a few ideas I had that would have been much more complicated and may have not even turned out proper had I continued on that path. However, this project gave me an idea from the beginning and the entire process was thought out prior to even opening SolidWorks. That being said, I also learned that it is fun to come up with ideas about improvements for the future before even finishing the original design. An example of this is the hole that I added to the handle of the part. This could be useful to many people in the future if this were to become an actual product on the open market. 
+
+This project took about 4-5 hours in total from start to finish because I ran through many different design options before settling on this one. 
+
+
+
+
+
+
+
+ 
