@@ -52,20 +52,35 @@ here are some images of the parts in Inkscape before they were cut -
 
 <img width="730" height="364" alt="Screenshot 2026-10-28 115812" src="https://github.com/user-attachments/assets/58ec9c2e-8b2a-4711-bb32-2bdf039144ac" />
 
+Video File of Print - 
 
+[Video File](https://github.com/AustinW-UNCC/Lab-Portfolio-MEGR2157/blob/main/IMG_2106.MOV)
 
+Laser Cutter Settings - 
 
+These settings include the vector and engraving settings for the petals and the other parts 
 
+<img width="761" height="143" alt="image" src="https://github.com/user-attachments/assets/9d31bdb6-436c-4e9d-8b6a-196b6f99c2dd" />
 
+I used the 40W laser cutter on the right of the two machines closest to the entrance. 
 
+All required emissions fans and exhaust fans were put on properly and the alignment was set by using the camera to find open space on the board. 
 
+All other settings are in the previous screenshot and should be applied as so to re-create the cuts. Only one pass was required for all cuts and engravings. 
 
+Pictures of the Final Project - 
 
+<img width="3024" height="4032" alt="IMG_2127" src="https://github.com/user-attachments/assets/f044273f-0b24-4e45-960b-70338c7b2ca5" />
 
+<img width="3024" height="4032" alt="IMG_2128" src="https://github.com/user-attachments/assets/8e7c2ca3-106c-4fec-aaee-06cfc726cb68" />
 
+<img width="3024" height="4032" alt="IMG_2129" src="https://github.com/user-attachments/assets/b14ec2a3-991d-40dc-a117-5b24f3158ef2" />
 
+Lessons Learned - 
 
-
+From the beginning, the kerf was not a major issue for us, we only ran into a problem once we got to the leaves on the part because for some reason the kerf did not want to cooperate with that part. We had to remake those leaves like 4 separate times, but everything else either worked in the first try or worked on the second try and it all fit very well and tight. 
+My measured values actually came out almost exact, and I was actually surprised and happy with how that result came out overall. 
+The one joint on the part that was not as tight as I expected was the main stem of the flower. This joint was still able to work out fine because we had parts connecting the top and bottom of the stem that kept those two pieces in line and made sure that they did not come apart. If I made one more cut, I would change the gap between the stems to make it tighter. 
 
 
 
