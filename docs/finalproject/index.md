@@ -42,9 +42,21 @@ None were needed for my design as there were no tight fits, the only test piece 
 
 8. Documentation -
 
+I started by opening up SolidWorks and creating a base design for the storage tray. 
+
+<img width="866" height="494" alt="image" src="https://github.com/user-attachments/assets/9641a609-c25d-4334-9d9b-f41c69a99352" />
+
+Next, I decided what size to make the individual trays and cut those out of the original rectangle. I preferred the idea of making different sizes how they are in the sticker form to allow them to be used on many different sizes of presents. I also added round holes so that you can put your finger in when there is only one tag left. This was done because I knew that when I made the tags, I would end up making them fit tightly so that the tags would not move around a whole lot. 
+
+<img width="758" height="476" alt="image" src="https://github.com/user-attachments/assets/f0181bdf-5728-413b-aec3-3dbcde8ed1c5" />
+
+Once that step was complete, I finished it off by adding chamfers to the edges of the tray to create a smoother, more seamless finish. 
+
+<img width="239" height="328" alt="image" src="https://github.com/user-attachments/assets/b0701c9d-e524-4eaf-8fdb-cf517fc3774c" />
+
 9. Presentation - 
 
-
+Done in class. 
 
 
 
