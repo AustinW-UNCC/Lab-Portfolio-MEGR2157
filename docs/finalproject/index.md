@@ -58,10 +58,21 @@ Once that step was complete, I finished it off by adding chamfers to the edges o
 
 Done in class. 
 
+Week 2 - Final Prototype and Presentation 
 
+1. Worksheet and Feedback: 
 
+Based on Candy's feedback I decided to add extra detail to certain parts of the project such as the chamfers and the holes for easier access to the laser cut pieces because I wanted the design to feel more personal and be something that people might actually use if put on an open-source website. 
 
+<img width="525" height="551" alt="image" src="https://github.com/user-attachments/assets/2852bbc2-1ef6-4602-b97f-88edaa4abc3e" />
 
+Based on Kaileigh's feedback, I decided to make 6 unique tags for this project instead of making them all the same. This helped foster some innovation by creating personalized tags for each member of my family and giving them each their own engraving of something that fits them and their personality a little better. 
+
+<img width="561" height="545" alt="image" src="https://github.com/user-attachments/assets/2ee36e81-84b6-49d7-9a8e-bcb8a11b32a6" />
+
+Based on Ameer's feedback, I decided to stick with the main idea of not creating super tight fits because that would add an unnecessary step for a tray that may end up holding things besides my original intentions. 
+
+<img width="544" height="541" alt="image" src="https://github.com/user-attachments/assets/52291282-a72a-4f3a-b2e6-584406b63f96" />
 
 
 
