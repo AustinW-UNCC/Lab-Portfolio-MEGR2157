@@ -58,7 +58,7 @@ Once that step was complete, I finished it off by adding chamfers to the edges o
 
 Done in class. 
 
-Week 2 - Final Prototype and Presentation 
+## Week 2 - Final Prototype and Presentation 
 
 1. Worksheet and Feedback: 
 
