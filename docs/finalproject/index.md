@@ -74,18 +74,33 @@ Based on Ameer's feedback, I decided to stick with the main idea of not creating
 
 <img width="544" height="541" alt="image" src="https://github.com/user-attachments/assets/52291282-a72a-4f3a-b2e6-584406b63f96" />
 
+2. Refinement:
 
+For this step I chose to focus on the things that my classmates helped me discover in their observations from my original presentation. I mentioned some of these changes earlier, but to reiterate; I made the tray much more smooth and appealing to the eye and touch, and also created custom engravings for each of the wooden tags for the presents. 
 
+3. Documentation:
 
+<img width="532" height="304" alt="Screenshot 2026-11-17 121721" src="https://github.com/user-attachments/assets/7f864aef-a3e4-467d-a0b7-a74d302bfb7d" />
 
+<img width="554" height="416" alt="Screenshot 2026-11-18 172542" src="https://github.com/user-attachments/assets/0c993fd2-94b2-4127-9eaa-6318304e49c8" />
 
+<img width="314" height="703" alt="Screenshot 2026-11-18 172535" src="https://github.com/user-attachments/assets/7bee676a-75ab-4343-aa3f-f1def099409b" />
 
+4. Presentation Preparation:
 
+My google slideshow as required by the guidelines 
 
+<img width="995" height="563" alt="image" src="https://github.com/user-attachments/assets/a2012994-840a-47e3-b990-967c6e431c47" />
 
+Presentation is to be done in class, and I have my necessary information ready to go. 
 
+I received feedback from a peer who helped me narrow down which parts of the project reflect better to a general audience and they helped me decide which parts to talk about since the time is limited to 1 minute. 
 
+5. Parametric Design:
 
+The parametric design that I chose to work with was the box size for the tags and the parametric design was that the box size will change when the overall height and length of the original rectangle is changed smaller or larger. That way, the boxes will shrink or grow proportionately to the overall size of the tray for different peoples uses in the future. 
+
+<img width="592" height="259" alt="image" src="https://github.com/user-attachments/assets/a40cb614-204f-40c8-b2b8-65ae0e2e6e7d" />
 
 
 
